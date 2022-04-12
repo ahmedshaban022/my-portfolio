@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.47613b17.css",
-    "main.js": "/my-portfolio/static/js/main.c81a74ee.js",
+    "main.js": "/my-portfolio/static/js/main.4b35b5eb.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/4.PNG": "/my-portfolio/static/media/4.2d4f7d108ddba7ba9ad8.PNG",
     "static/media/5.PNG": "/my-portfolio/static/media/5.1a25e4a835fa07cb0613.PNG",
     "static/media/Ahmed Shaban.PNG": "/my-portfolio/static/media/Ahmed Shaban.98409c900d1c43f90f21.PNG",
-    "static/media/Ahmed Shaban.pdf": "/my-portfolio/static/media/Ahmed Shaban.b0d44265daf18ad29af7.pdf",
     "static/media/Ua-Shop.png": "/my-portfolio/static/media/Ua-Shop.c0449c96d37587735d97.png",
+    "static/media/Ahmed Shaban.pdf": "/my-portfolio/static/media/Ahmed Shaban.957c30988dcb97acf590.pdf",
     "static/media/Yello.png": "/my-portfolio/static/media/Yello.0beac77af185db3ee1fc.png",
     "static/media/trans.PNG": "/my-portfolio/static/media/trans.af611708c9e44246f2a4.PNG",
     "static/media/pte-admin.PNG": "/my-portfolio/static/media/pte-admin.7acbe4ae5b266fa455dc.PNG",
     "static/media/UA-Todo.PNG": "/my-portfolio/static/media/UA-Todo.a918f70953ba7938ba5b.PNG",
     "index.html": "/my-portfolio/index.html",
     "main.47613b17.css.map": "/my-portfolio/static/css/main.47613b17.css.map",
-    "main.c81a74ee.js.map": "/my-portfolio/static/js/main.c81a74ee.js.map",
+    "main.4b35b5eb.js.map": "/my-portfolio/static/js/main.4b35b5eb.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47613b17.css",
-    "static/js/main.c81a74ee.js"
+    "static/js/main.4b35b5eb.js"
   ]
 }
