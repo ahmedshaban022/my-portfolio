@@ -252,9 +252,17 @@ function Sections(props) {
                   </p>
                 </div>
               </div>
-
-            <div className="col-md-6 col-lg-4">
+              <div className="col-md-6 col-lg-4">
                 <div className="portfolio-item" data-aos="fade-up">
+                  <img className="w-100 img-thumbnail" src={require("../projects/Aim-Tech..Task.png")} alt="portfolio image" />
+                  <h3 className="text-capitalize fs-5 my-2">  Cooking Recipes (MERN)</h3>
+                  <p className="mb-4">
+                    <a href="https://aim-cooking-recipes.herokuapp.com/" target="_blank" className="text-danger text-decoration-none">Live Demo</a>
+                  </p>
+                </div>
+              </div>
+            <div className="col-md-6 col-lg-4">
+                <div className="portfolio-item" data-aos="fade-up-left">
                   <img className="w-100 img-thumbnail" src={require("../projects/UA-Todo.PNG")} alt="portfolio image" />
                   <h3 className="text-capitalize fs-5 my-2">Todo (MERN)</h3>
                   <p className="mb-4">
@@ -263,16 +271,7 @@ function Sections(props) {
                 </div>
               </div>
 
-              <div className="col-md-6 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-up-left">
-                  <img className="w-100 img-thumbnail" src={require("../projects/Aim-Tech..Task.png")} alt="portfolio image" />
-                  <h3 className="text-capitalize fs-5 my-2">  Cooking Recipes (MERN)</h3>
-                  <p className="mb-4">
-                    <a href="https://aim-cooking-recipes.herokuapp.com/" target="_blank" className="text-danger text-decoration-none">Live Demo</a>
-                  </p>
-                </div>
-              </div>
-
+            
               <div className="col-md-6 col-lg-4">
                 <div className="portfolio-item" data-aos="fade-up-left">
                   <img className="w-100 img-thumbnail" src={require("../projects/trans.PNG")} alt="portfolio image" />
