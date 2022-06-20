@@ -1,6 +1,9 @@
 *{
   cursor: url("./cursores/c3.png"),auto;
 }
+a:hover{
+  cursor: url("./cursores/c1.png"),auto;
+}
 
 .App {
   text-align: center;
