@@ -72,7 +72,7 @@ function Sections(props) {
                   Front-end and Back-end development 
                   </h3>
                   <p className="text-muted">
-                  Software fundamentals engineering ITI (3month)
+                  Software engineering fundamentals  ITI (3month)
                   </p>
                   <p className="text-muted">
                   Full stack web development using MEARN ITI (3month)

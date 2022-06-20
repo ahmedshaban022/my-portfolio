@@ -1,3 +1,7 @@
+body{
+  cursor: url("./cursores/c3.png"),auto;
+}
+
 .App {
   text-align: center;
 }
