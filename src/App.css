@@ -1,8 +1,8 @@
 *{
-  cursor: url("./cursores/c3.png"),auto;
+  cursor: url("./cursores/c5.png"),auto;
 }
 a:hover{
-  cursor: url("./cursores/c1.png"),auto;
+  cursor: url("./cursores/c5.png"),auto;
 }
 
 .App {
