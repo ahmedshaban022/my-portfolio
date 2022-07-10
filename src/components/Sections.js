@@ -271,15 +271,16 @@ function Sections(props) {
                 </div>
               </div>
 
-            <div className="col-md-6 col-lg-4">
+              <div className="col-md-6 col-lg-4">
                 <div className="portfolio-item" data-aos="fade-up-right">
-                  <img className="w-100 img-thumbnail" src={require("../projects/UA-Todo.PNG")} alt="portfolio image" />
-                  <h3 className="text-capitalize fs-5 my-2">Todo (MERN)</h3>
+                  <img className="w-100 img-thumbnail" src={require("../projects/souq-abnoud.jpg")} alt="portfolio image" />
+                  <h3 className="text-capitalize fs-5 my-2">Souq Abnoud (MERN)</h3>
                   <p className="mb-4">
-                    <a href="https://ua-todo.herokuapp.com/" target="_blank" className="text-danger text-decoration-none">Live Demo</a>
+                    <a href="https://ahmedshaban022.github.io/souq-abnoud/" target="_blank" className="text-danger text-decoration-none">Live Demo</a>
                   </p>
                 </div>
               </div>
+
 
             
               <div className="col-md-6 col-lg-4">
@@ -291,8 +292,19 @@ function Sections(props) {
                   </p>
                 </div>
               </div>
+
               <div className="col-md-6 col-lg-4">
                 <div className="portfolio-item" data-aos="fade-up-left">
+                  <img className="w-100 img-thumbnail" src={require("../projects/UA-Todo.PNG")} alt="portfolio image" />
+                  <h3 className="text-capitalize fs-5 my-2">Todo (MERN)</h3>
+                  <p className="mb-4">
+                    <a href="https://ua-todo.herokuapp.com/" target="_blank" className="text-danger text-decoration-none">Live Demo</a>
+                  </p>
+                </div>
+              </div>
+
+              <div className="col-md-6 col-lg-4">
+                <div className="portfolio-item" data-aos="fade-up-right">
                   <img className="w-100 img-thumbnail" src={require("../projects/pte-admin.PNG")} alt="portfolio image" />
                   <h3 className="text-capitalize fs-5 my-2">PTE-Admin Dashboard (React)</h3>
                   <p className="mb-4">
@@ -300,6 +312,7 @@ function Sections(props) {
                   </p>
                 </div>
               </div>
+
               <div className="col-md-6 col-lg-4">
                 <div className="portfolio-item" data-aos="fade-up">
                   <img className="w-100 img-thumbnail" src={require("../projects/Yello.png")} alt="portfolio image" />
@@ -309,15 +322,7 @@ function Sections(props) {
                   </p>
                 </div>
               </div>
-              <div className="col-md-6 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-up-right">
-                  <img className="w-100 img-thumbnail" src={require("../projects/4.PNG")} alt="portfolio image" />
-                  <h3 className="text-capitalize fs-5 my-2">WordPress Food Delivery WebSite</h3>
-                  <p className="mb-4">
-                    <a href="https://dev-gahez.pantheonsite.io/" target="_blank" className="text-danger text-decoration-none">Live Demo</a>
-                  </p>
-                </div>
-              </div>
+            
             
              
              
