@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.e8ad3c23.css",
-    "main.js": "/my-portfolio/static/js/main.72eb3b44.js",
+    "main.js": "/my-portfolio/static/js/main.e661b33c.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/4.PNG": "/my-portfolio/static/media/4.2d4f7d108ddba7ba9ad8.PNG",
     "static/media/Aim-Tech..Task.png": "/my-portfolio/static/media/Aim-Tech..Task.3cc60d09791435cfd7b2.png",
     "static/media/5.PNG": "/my-portfolio/static/media/5.1a25e4a835fa07cb0613.PNG",
     "static/media/Ahmed Shaban.PNG": "/my-portfolio/static/media/Ahmed Shaban.98409c900d1c43f90f21.PNG",
     "static/media/Ua-Shop.png": "/my-portfolio/static/media/Ua-Shop.c0449c96d37587735d97.png",
     "static/media/Ahmed Shaban.pdf": "/my-portfolio/static/media/Ahmed Shaban.b3e2dae43fb8950b6af9.pdf",
     "static/media/chat-app.png": "/my-portfolio/static/media/chat-app.6f5b6185938c54758557.png",
+    "static/media/souq-abnoud.jpg": "/my-portfolio/static/media/souq-abnoud.523bca91db66fa536c49.jpg",
     "static/media/Yello.png": "/my-portfolio/static/media/Yello.0beac77af185db3ee1fc.png",
     "static/media/trans.PNG": "/my-portfolio/static/media/trans.af611708c9e44246f2a4.PNG",
     "static/media/pte-admin.PNG": "/my-portfolio/static/media/pte-admin.7acbe4ae5b266fa455dc.PNG",
     "static/media/UA-Todo.PNG": "/my-portfolio/static/media/UA-Todo.a918f70953ba7938ba5b.PNG",
     "index.html": "/my-portfolio/index.html",
     "main.e8ad3c23.css.map": "/my-portfolio/static/css/main.e8ad3c23.css.map",
-    "main.72eb3b44.js.map": "/my-portfolio/static/js/main.72eb3b44.js.map",
+    "main.e661b33c.js.map": "/my-portfolio/static/js/main.e661b33c.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8ad3c23.css",
-    "static/js/main.72eb3b44.js"
+    "static/js/main.e661b33c.js"
   ]
 }
