@@ -78,26 +78,19 @@ function Sections(props) {
                   Full stack web development using MEARN ITI (3month)
                   </p>
                 </div>
-                <div className="row text-center text-uppercase my-5">
-                  <div className="col-sm-4">
-                    <div className="fact-item">
-                      <h4 className="fs-1 fw-bold">100</h4>
-                      <p className="text-muted">Project Completed</p>
-                    </div>
-                  </div>
-                  <div className="col-sm-4">
-                    <div className="fact-item">
-                      <h4 className="fs-1 fw-bold">90</h4>
-                      <p className="text-muted">Happy clients</p>
-                    </div>
-                  </div>
-                  <div className="col-sm-4">
-                    <div className="fact-item">
-                      <h4 className="fs-1 fw-bold">95</h4>
-                      <p className="text-muted">Positive Reviews</p>
-                    </div>
-                  </div>
+                <div className="about-text">
+                  <h3 className="fs-4 mb-3">
+                  Work Experience 
+                  </h3>
+                  <p className="text-muted">
+                  Full Stack Developer Using MERN At AutoService , Kuwait (Remote)
+                   <br/>
+                   <small className="text-muted">
+                  From  July-2022 - Untile Now
+                  </small>
+                  </p>
                 </div>
+                
                 <div className="row">
                   <div className="col-lg-12 d-flex align-items-center">
                     <a href={require("../files/Ahmed Shaban.pdf")}  onClick={()=>toast.success('CV Downloaded')} download className="btn btn-danger me-5 px-3">Download CV</a>
