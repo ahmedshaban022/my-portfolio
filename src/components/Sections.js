@@ -332,18 +332,6 @@ function Sections(props) {
                 </p>
               </div>
             </div>
-            {/* <div className="col-md-6 col-lg-4 mb-4">
-                <div className="service-item shadow-sm p-4 rounded bg-white">
-                  <div className="icon my-3 text-danger fs-2">
-                    <i className="fas fa-mobile-alt" />
-                  </div>
-                  <h3 className="fs-5 py-2">Mobile Apps</h3>
-                  <p className="text-muted">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit,
-                    iusto?
-                  </p>
-                </div>
-              </div> */}
           </div>
         </div>
       </section>
