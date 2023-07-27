@@ -99,8 +99,17 @@ function Sections(props) {
                   (Remote)
                   <br />
                   <small className="text-muted">
-                    From July-2022 - Untile Now
+                    From : July-2022 - Untile : Now
                   </small>
+                  <span className="m-2 p-1 rounded ">
+                    <a
+                      className="text-danger text-decoration-none fw-bold"
+                      href="https://www.appautoservice.com/"
+                      target="_blank"
+                    >
+                      Visit AutoService
+                    </a>
+                  </span>
                 </p>
               </div>
 
