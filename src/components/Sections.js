@@ -362,7 +362,7 @@ function Sections(props) {
                 <h3 className="text-capitalize fs-5 my-2">UA-Shop (MERN)</h3>
                 <p className="mb-4">
                   <a
-                    href="https://ua-shop.herokuapp.com"
+                    href="https://ua-shop.onrender.com/"
                     target="_blank"
                     className="text-danger text-decoration-none"
                   >
