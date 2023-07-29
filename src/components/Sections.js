@@ -384,7 +384,7 @@ function Sections(props) {
                 </h3>
                 <p className="mb-4">
                   <a
-                    href="https://aim-cooking-recipes.herokuapp.com/"
+                    href="https://cooking-recipes-1ri8.onrender.com"
                     target="_blank"
                     className="text-danger text-decoration-none"
                   >
