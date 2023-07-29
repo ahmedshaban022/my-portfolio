@@ -444,7 +444,6 @@ function Sections(props) {
                   alt="portfolio image"
                 />
                 <h3 className="text-capitalize fs-5 my-2">
-                  {" "}
                   Booking-DashBoard (MEAN)
                 </h3>
                 <p className="mb-4">
