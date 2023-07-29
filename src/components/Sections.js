@@ -371,47 +371,6 @@ function Sections(props) {
                 </p>
               </div>
             </div>
-            <div className="col-md-6 col-lg-4">
-              <div className="portfolio-item" data-aos="fade-up">
-                <img
-                  className="w-100 img-thumbnail"
-                  src={require("../projects/Aim-Tech..Task.png")}
-                  alt="portfolio image"
-                />
-                <h3 className="text-capitalize fs-5 my-2">
-                  {" "}
-                  Cooking Recipes (MERN)
-                </h3>
-                <p className="mb-4">
-                  <a
-                    href="https://cooking-recipes-1ri8.onrender.com"
-                    target="_blank"
-                    className="text-danger text-decoration-none"
-                  >
-                    Live Demo
-                  </a>
-                </p>
-              </div>
-            </div>
-            <div className="col-md-6 col-lg-4">
-              <div className="portfolio-item" data-aos="fade-up-left">
-                <img
-                  className="w-100 img-thumbnail"
-                  src={require("../projects/chat-app.png")}
-                  alt="portfolio image"
-                />
-                <h3 className="text-capitalize fs-5 my-2">Chat App (MERN)</h3>
-                <p className="mb-4">
-                  <a
-                    href="https://ua-live-chat.herokuapp.com/chats"
-                    target="_blank"
-                    className="text-danger text-decoration-none"
-                  >
-                    Live Demo
-                  </a>
-                </p>
-              </div>
-            </div>
 
             <div className="col-md-6 col-lg-4">
               <div className="portfolio-item" data-aos="fade-up-right">
@@ -435,6 +394,48 @@ function Sections(props) {
               </div>
             </div>
 
+            <div className="col-md-6 col-lg-4">
+              <div className="portfolio-item" data-aos="fade-up-left">
+                <img
+                  className="w-100 img-thumbnail"
+                  src={require("../projects/chat-app.png")}
+                  alt="portfolio image"
+                />
+                <h3 className="text-capitalize fs-5 my-2">Chat App (MERN)</h3>
+                <p className="mb-4">
+                  <a
+                    href="https://ua-chatapp.onrender.com/"
+                    target="_blank"
+                    className="text-danger text-decoration-none"
+                  >
+                    Live Demo
+                  </a>
+                </p>
+              </div>
+            </div>
+
+            <div className="col-md-6 col-lg-4">
+              <div className="portfolio-item" data-aos="fade-up">
+                <img
+                  className="w-100 img-thumbnail"
+                  src={require("../projects/Aim-Tech..Task.png")}
+                  alt="portfolio image"
+                />
+                <h3 className="text-capitalize fs-5 my-2">
+                  {" "}
+                  Cooking Recipes (MERN)
+                </h3>
+                <p className="mb-4">
+                  <a
+                    href="https://cooking-recipes-1ri8.onrender.com"
+                    target="_blank"
+                    className="text-danger text-decoration-none"
+                  >
+                    Live Demo
+                  </a>
+                </p>
+              </div>
+            </div>
             <div className="col-md-6 col-lg-4">
               <div className="portfolio-item" data-aos="fade-up">
                 <img
