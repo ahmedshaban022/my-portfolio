@@ -117,11 +117,11 @@ function Sections(props) {
                 <div className="col-lg-12 d-flex align-items-center">
                   <a
                     href={require("../files/Ahmed Shaban.pdf")}
-                    onClick={() => toast.success("CV Downloaded")}
+                    onClick={() => toast.success("Resume Downloaded")}
                     download
                     className="btn btn-danger me-5 px-3"
                   >
-                    Download CV
+                    Download Resume
                   </a>
                   <div className="social-links fs-4 ">
                     <a
