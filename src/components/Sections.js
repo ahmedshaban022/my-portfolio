@@ -371,6 +371,27 @@ function Sections(props) {
                 </p>
               </div>
             </div>
+            <div className="col-md-6 col-lg-4">
+              <div className="portfolio-item" data-aos="fade-up-right">
+                <img
+                  className="w-100 img-thumbnail"
+                  src={require("../projects/ejobs.png")}
+                  alt="portfolio image"
+                />
+                <h3 className="text-capitalize fs-5 my-2">
+                  Engineers Resumes Store (NextJs)
+                </h3>
+                <p className="mb-4">
+                  <a
+                    href="https://e-jobs.vercel.app/"
+                    target="_blank"
+                    className="text-danger text-decoration-none"
+                  >
+                    Visit Website
+                  </a>
+                </p>
+              </div>
+            </div>
 
             <div className="col-md-6 col-lg-4">
               <div className="portfolio-item" data-aos="fade-up-right">
@@ -388,7 +409,7 @@ function Sections(props) {
                     target="_blank"
                     className="text-danger text-decoration-none"
                   >
-                    Live Demo
+                    Visit Website
                   </a>
                 </p>
               </div>
