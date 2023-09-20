@@ -222,7 +222,20 @@ function Sections(props) {
                 </div>
               </div>
               <div className="skill-item mb-4">
-                <h3 className="fs-6">Angular</h3>
+                <h3 className="fs-6">NextJs</h3>
+                <div className="progress" style={{ height: "5px" }}>
+                  <div
+                    className="progress-bar bg-danger"
+                    role="progressbar"
+                    style={{ width: "85%" }}
+                    aria-valuenow={90}
+                    aria-valuemin={0}
+                    aria-valuemax={100}
+                  />
+                </div>
+              </div>
+              <div className="skill-item mb-4">
+                <h3 className="fs-6">Tailwind Css</h3>
                 <div className="progress" style={{ height: "5px" }}>
                   <div
                     className="progress-bar bg-danger"
@@ -254,45 +267,6 @@ function Sections(props) {
                     className="progress-bar bg-danger"
                     role="progressbar"
                     style={{ width: "95%" }}
-                    aria-valuenow={90}
-                    aria-valuemin={0}
-                    aria-valuemax={100}
-                  />
-                </div>
-              </div>
-              <div className="skill-item mb-4">
-                <h3 className="fs-6">C#</h3>
-                <div className="progress" style={{ height: "5px" }}>
-                  <div
-                    className="progress-bar bg-danger"
-                    role="progressbar"
-                    style={{ width: "35%" }}
-                    aria-valuenow={90}
-                    aria-valuemin={0}
-                    aria-valuemax={100}
-                  />
-                </div>
-              </div>
-              <div className="skill-item mb-4">
-                <h3 className="fs-6">C++</h3>
-                <div className="progress" style={{ height: "5px" }}>
-                  <div
-                    className="progress-bar bg-danger"
-                    role="progressbar"
-                    style={{ width: "35%" }}
-                    aria-valuenow={90}
-                    aria-valuemin={0}
-                    aria-valuemax={100}
-                  />
-                </div>
-              </div>
-              <div className="skill-item mb-4">
-                <h3 className="fs-6">C</h3>
-                <div className="progress" style={{ height: "5px" }}>
-                  <div
-                    className="progress-bar bg-danger"
-                    role="progressbar"
-                    style={{ width: "40%" }}
                     aria-valuenow={90}
                     aria-valuemin={0}
                     aria-valuemax={100}
