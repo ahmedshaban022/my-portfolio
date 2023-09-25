@@ -1,26 +1,25 @@
-
-import './App.css';
-import { ToastContainer, toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
-import Navbar from './components/Navbar';
-import Sections from './components/Sections';
-import Footer from './components/Footer';
-import { useEffect } from 'react';
+import "./App.css";
+// import { ToastContainer, toast } from 'react-toastify';
+// import 'react-toastify/dist/ReactToastify.css';
+// import Navbar from './components/Navbar';
+// import Sections from './components/Sections';
+// import Footer from './components/Footer';
+// import { useEffect } from 'react';
 
 function App() {
+  window.location.replace("https://ahmed-shaban.vercel.app");
+  // useEffect(()=>{
 
-useEffect(()=>{
-  
-  toast(`Welcome on my portfolio`);
-},[])
+  //   toast(`Welcome on my portfolio`);
+  // },[])
   return (
     <div className="overflow-hidden">
-    <Navbar />
+      {/* <Navbar />
 
         <Sections/>
       <Footer/>
 
-      <ToastContainer />
+      <ToastContainer /> */}
     </div>
   );
 }
